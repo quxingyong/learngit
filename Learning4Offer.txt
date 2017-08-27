@@ -140,4 +140,5 @@ a)	具有很强的学习能力、分析能力和创新意识，较强的问题�
 
 learning Git Test!
 learning git Test2!
+learning git Test3!
 
